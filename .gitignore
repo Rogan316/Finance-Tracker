@@ -48,4 +48,5 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
-# J
+# virtual environment
+venv/
